@@ -1,7 +1,7 @@
 ---
-title: About
-description: Hugo, the world's fastest framework for building websites
-date: '2019-02-28'
+title: 个人介绍
+description: 这人很勤奋
+date: '2022-9-23'
 aliases:
   - about-us
   - about-hugo
